@@ -1,3 +1,5 @@
+Ссылка на домашнее задание - [github](https://github.com/netology-code/micros-homeworks/blob/main/11-microservices-03-approaches.md)
+
 ### Задание 1
 #### Для обеспечения процесса разработки подойдет программный продукт **Gitlab**.
 
