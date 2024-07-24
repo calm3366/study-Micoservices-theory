@@ -1,3 +1,5 @@
+Ссылка на домашнее задание - [github](https://github.com/netology-code/micros-homeworks/blob/main/11-microservices-02-principles.md)
+
 ### Задание 1
 **Kubernetes Gateway API** - предлагает единообразный интерфейс для настройки и эксплуатации API-шлюзов независимо от их реализации
 - GatewayClass: определяет набор шлюзов с общей конфигурацией, управляемых контроллером, реализующим этот класс.
